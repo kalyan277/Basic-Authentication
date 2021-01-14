@@ -6,7 +6,7 @@ Authentication
 ------------------
 Firebased
 
-For Styling And Css
+Styling
 ----------------------
 Ant Design
 Bootstrap Material Design 
