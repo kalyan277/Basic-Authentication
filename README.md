@@ -13,5 +13,5 @@ Bootstrap Material Design
 
 Componenet And State Management Library
 ----------------------
-Functional Componenet with Hook
-Redux
+Functional Componenet with Redux(Hook)
+
